@@ -1,0 +1,287 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="16" passed="16">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="49058" started-at="2023-04-03T23:22:31 IST" finished-at="2023-04-03T23:23:20 IST">
+    <groups>
+      <group name="cucumber">
+        <method signature="AbstractTestNGCucumberTests.runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:tests_Runner.Runner1@2f0a87b3]" name="runScenario" class="io.cucumber.testng.AbstractTestNGCucumberTests"/>
+      </group> <!-- cucumber -->
+    </groups>
+    <test name="Test" duration-ms="49058" started-at="2023-04-03T23:22:31 IST" finished-at="2023-04-03T23:23:20 IST">
+      <class name="tests_Runner.Runner1">
+        <test-method status="PASS" signature="setUpClass(org.testng.ITestContext)[pri:0, instance:tests_Runner.Runner1@2f0a87b3]" name="setUpClass" is-config="true" duration-ms="265" started-at="2023-04-03T23:22:31 IST" finished-at="2023-04-03T23:22:31 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@be35cd9]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpClass -->
+        <test-method status="PASS" signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:tests_Runner.Runner1@2f0a87b3]" name="runScenario" duration-ms="28141" started-at="2023-04-03T23:22:31 IST" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2023-04-03T23:22:59 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["pagetitlecheckbasedonsearch"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["sample1"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method status="PASS" signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:tests_Runner.Runner1@2f0a87b3]" name="runScenario" duration-ms="28337" started-at="2023-04-03T23:22:31 IST" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2023-04-03T23:23:00 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["pagetitlecheckbasedonsearch"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["sample1"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method status="PASS" signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:tests_Runner.Runner1@2f0a87b3]" name="runScenario" duration-ms="47025" started-at="2023-04-03T23:22:31 IST" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2023-04-03T23:23:18 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["page title checking based on variable in DataTable"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["sample3"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method status="PASS" signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:tests_Runner.Runner1@2f0a87b3]" name="runScenario" duration-ms="24047" started-at="2023-04-03T23:22:31 IST" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2023-04-03T23:22:55 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["page title checking based on variable in example:"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["sample2"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method status="PASS" signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:tests_Runner.Runner1@2f0a87b3]" name="runScenario" duration-ms="27652" started-at="2023-04-03T23:22:31 IST" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2023-04-03T23:22:59 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["page title checking based on variable in example:"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["sample2"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method status="PASS" signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:tests_Runner.Runner1@2f0a87b3]" name="runScenario" duration-ms="22901" started-at="2023-04-03T23:22:31 IST" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2023-04-03T23:22:54 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["GooglepageTitlechecking"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["sample1"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method status="PASS" signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:tests_Runner.Runner1@2f0a87b3]" name="runScenario" duration-ms="24229" started-at="2023-04-03T23:22:31 IST" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2023-04-03T23:22:56 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["page title checking based on variable in example:"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["sample2"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method status="PASS" signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:tests_Runner.Runner1@2f0a87b3]" name="runScenario" duration-ms="35533" started-at="2023-04-03T23:22:31 IST" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2023-04-03T23:23:07 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["page title checking based on variable in example:"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["sample2"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method status="PASS" signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:tests_Runner.Runner1@2f0a87b3]" name="runScenario" duration-ms="27465" started-at="2023-04-03T23:22:31 IST" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2023-04-03T23:22:59 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["GooglepageTitlechecking"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["sample1"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method status="PASS" signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:tests_Runner.Runner1@2f0a87b3]" name="runScenario" duration-ms="27982" started-at="2023-04-03T23:22:31 IST" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2023-04-03T23:22:59 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["page title checking based on variable in example:"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["sample2"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method status="PASS" signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:tests_Runner.Runner1@2f0a87b3]" name="runScenario" duration-ms="15019" started-at="2023-04-03T23:22:54 IST" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2023-04-03T23:23:09 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["page title checking based on variable in example:"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["sample1"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method status="PASS" signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:tests_Runner.Runner1@2f0a87b3]" name="runScenario" duration-ms="12587" started-at="2023-04-03T23:22:55 IST" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2023-04-03T23:23:08 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["page title checking based on variable in example:"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["sample1"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method status="PASS" signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:tests_Runner.Runner1@2f0a87b3]" name="runScenario" duration-ms="12282" started-at="2023-04-03T23:22:56 IST" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2023-04-03T23:23:08 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["page title checking based on variable in example:"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["sample1"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method status="PASS" signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:tests_Runner.Runner1@2f0a87b3]" name="runScenario" duration-ms="11568" started-at="2023-04-03T23:22:59 IST" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2023-04-03T23:23:10 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["page title checking based on variable in example:"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["sample1"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method status="PASS" signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:tests_Runner.Runner1@2f0a87b3]" name="runScenario" duration-ms="13253" started-at="2023-04-03T23:22:59 IST" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2023-04-03T23:23:12 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["page title checking based on variable in example:"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["sample1"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method status="PASS" signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:tests_Runner.Runner1@2f0a87b3]" name="runScenario" duration-ms="20748" started-at="2023-04-03T23:22:59 IST" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2023-04-03T23:23:20 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["page title checking based on variable in DataTable"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["sample1"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method status="PASS" signature="tearDownClass()[pri:0, instance:tests_Runner.Runner1@2f0a87b3]" name="tearDownClass" is-config="true" duration-ms="6" started-at="2023-04-03T23:23:20 IST" finished-at="2023-04-03T23:23:20 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownClass -->
+      </class> <!-- tests_Runner.Runner1 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
